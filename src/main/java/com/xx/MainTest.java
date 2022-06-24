@@ -7,5 +7,6 @@ public class MainTest {
         System.out.println("hello world");//nihk
         System.out.println("hello world");
         System.out.println("hot -fix");
+        System.out.println("push test");
     }
 }
